@@ -3,7 +3,7 @@
 
 ...
 
-# Regeln
+# Regeln vom Lesepreis
 
 > ***David***, Genaue Beschreibung von Punktesystem, Struktur und Regeln vom Lesepreis bitte hier
 
@@ -16,6 +16,14 @@
 3. Design der App in Adobe XD - ***Serafim***  
 4. Absprechung Design mit Bibliothekarin - ***zusammen***  
 usw ...
+
+# Wir verwenden
+
+|Ziel|Tool|Alternativ|Wer|
+|------|------|------------|-----|
+|App selber|python3, customtkinter|-|-|
+|Design|Adobe XD|-|Serafim|
+|Database|sqlite3|JSON|-|
 
 # Ideen  
 
