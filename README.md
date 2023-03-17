@@ -17,7 +17,7 @@
 
 1. Genaue Beschreibung von Punktesystem, Struktur und Regeln vom Lesepreis - ***David***  
 2. Absprechung Struktur von der App - ***zusammen***
-3. Design der App in Adobe XD - ***Serafim***  
+3. Design der App in ~~Adobe XD *~~ Figma - ***Serafim***  
 4. Absprechung Design mit Bibliothekarin - ***zusammen***  
 usw ...
 
@@ -30,7 +30,7 @@ usw ...
 |Database|sqlite3|JSON|-|
 
 > * Adobe waren sehr nett und haben XD Starter Plan entfernt, 11.98€/Monat sind zu teuer  
-> ![](https://i.scdn.co/image/ab67616d00001e025c6aa4e3197665d2833b2b27)  
+> ![pain in the ass](https://i.scdn.co/image/ab67616d00001e025c6aa4e3197665d2833b2b27)  
 
 
 # Ideen  
