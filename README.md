@@ -9,6 +9,10 @@
 
 ...
 
+# Trello  
+
+[Trello](https://trello.com/b/wMECab3u/lesepreis)  
+
 # Roadmap
 
 1. Genaue Beschreibung von Punktesystem, Struktur und Regeln vom Lesepreis - ***David***  
