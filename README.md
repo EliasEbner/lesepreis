@@ -25,8 +25,8 @@ usw ...
 |Design|~~Adobe XD*~~|Figma|Serafim|
 |Database|sqlite3|JSON|-|
 
-> * Adobe waren sehr nett und haben XD Starter Plan entfernt, 11.98€/Monat sind zu teuer
-> ![](https://i.scdn.co/image/ab67616d00001e025c6aa4e3197665d2833b2b27)
+> * Adobe waren sehr nett und haben XD Starter Plan entfernt, 11.98€/Monat sind zu teuer  
+> ![](https://i.scdn.co/image/ab67616d00001e025c6aa4e3197665d2833b2b27)  
 
 
 # Ideen  
