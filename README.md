@@ -22,7 +22,7 @@ usw ...
 |Ziel|Tool|Alternativ|Wer|
 |------|------|------------|-----|
 |App selber|python3, customtkinter|-|-|
-|Design|~~Adobe XD*~~|Figma|Serafim|
+|Design|~~Adobe XD *~~|Figma|Serafim|
 |Database|sqlite3|JSON|-|
 
 > * Adobe waren sehr nett und haben XD Starter Plan entfernt, 11.98€/Monat sind zu teuer  
