@@ -2,7 +2,7 @@
 > App für einfachere Verwaltung vom Lesepreis  
 
 ...
-
+ 
 # Regeln vom Lesepreis
 
 > ***David***, Genaue Beschreibung von Punktesystem, Struktur und Regeln vom Lesepreis bitte hier
