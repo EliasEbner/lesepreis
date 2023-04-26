@@ -7,7 +7,10 @@
 
 > ***David***, Genaue Beschreibung von Punktesystem, Struktur und Regeln vom Lesepreis bitte hier
 
-...
+Mindestens 3 Bücher um zugelassen zu werden 
+Max 50 Bücher pro Schüler
+Einmalig Fremdsprache mit Deutschem Buch multiplizieren
+Bild von der Liste hänge ich später noch an
 
 # Trello  
 
